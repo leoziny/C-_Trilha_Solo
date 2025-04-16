@@ -1,0 +1,15 @@
+C:\Users\leogo\Downloads\C-_Trilha_Solo\bin\Debug\net9.0\C-_Trilha_Solo.exe
+C:\Users\leogo\Downloads\C-_Trilha_Solo\bin\Debug\net9.0\C-_Trilha_Solo.deps.json
+C:\Users\leogo\Downloads\C-_Trilha_Solo\bin\Debug\net9.0\C-_Trilha_Solo.runtimeconfig.json
+C:\Users\leogo\Downloads\C-_Trilha_Solo\bin\Debug\net9.0\C-_Trilha_Solo.dll
+C:\Users\leogo\Downloads\C-_Trilha_Solo\bin\Debug\net9.0\C-_Trilha_Solo.pdb
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\C-_Trilha_Solo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\C-_Trilha_Solo.AssemblyInfoInputs.cache
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\C-_Trilha_Solo.AssemblyInfo.cs
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\C-_Trilha_Solo.csproj.CoreCompileInputs.cache
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\C-_Trilha_Solo.sourcelink.json
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\C-_Trilha_Solo.dll
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\refint\C-_Trilha_Solo.dll
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\C-_Trilha_Solo.pdb
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\C-_Trilha_Solo.genruntimeconfig.cache
+C:\Users\leogo\Downloads\C-_Trilha_Solo\obj\Debug\net9.0\ref\C-_Trilha_Solo.dll
